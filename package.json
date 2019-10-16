@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://my-api-server:port",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
