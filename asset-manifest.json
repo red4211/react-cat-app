@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-cat-app/static/css/main.b8544e39.chunk.css",
+    "main.js": "/react-cat-app/static/js/main.3a994c83.chunk.js",
+    "main.js.map": "/react-cat-app/static/js/main.3a994c83.chunk.js.map",
+    "runtime-main.js": "/react-cat-app/static/js/runtime-main.6fb65a70.js",
+    "runtime-main.js.map": "/react-cat-app/static/js/runtime-main.6fb65a70.js.map",
+    "static/js/2.213c4605.chunk.js": "/react-cat-app/static/js/2.213c4605.chunk.js",
+    "static/js/2.213c4605.chunk.js.map": "/react-cat-app/static/js/2.213c4605.chunk.js.map",
+    "index.html": "/react-cat-app/index.html",
+    "precache-manifest.be6d09e8d2e5033091e72d8e015cda44.js": "/react-cat-app/precache-manifest.be6d09e8d2e5033091e72d8e015cda44.js",
+    "service-worker.js": "/react-cat-app/service-worker.js",
+    "static/css/main.b8544e39.chunk.css.map": "/react-cat-app/static/css/main.b8544e39.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb65a70.js",
+    "static/js/2.213c4605.chunk.js",
+    "static/css/main.b8544e39.chunk.css",
+    "static/js/main.3a994c83.chunk.js"
+  ]
+}
